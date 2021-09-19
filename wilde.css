@@ -1,0 +1,14 @@
+.speech {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-small;
+    color: black;
+}
+
+.stage_directions{
+    background-color: darkkhaki;
+}
+
+.stage_directions :hover{
+    background-color: honeydew;
+    color:darkred;
+}
