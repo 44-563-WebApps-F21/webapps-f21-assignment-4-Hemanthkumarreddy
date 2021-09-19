@@ -44,7 +44,14 @@
 
 .tableStyle{
     border-style: dashed;
-    border:3px black;
+    border-color: black;
     text-align: center;
-    color:black;
+    margin: 25px 0px 0px 100px;
+}
+
+tr:nth-child(even) {background-color: #d1d1d1;}
+
+.rowNcolumn{
+    border-style: groove;
+    border-color: black;
 }
