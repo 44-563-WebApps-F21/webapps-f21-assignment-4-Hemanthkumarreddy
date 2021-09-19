@@ -43,15 +43,8 @@
 }
 
 .tableStyle{
-    margin: 10px;
+    border-style: dashed;
+    border:3px black;
     text-align: center;
     color:black;
-}
-
-tr:nth-child(even) {
-    background-color: #f3f3f3;
-}
-
-th, td{
-    padding: 20px;
 }
