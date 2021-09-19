@@ -1,6 +1,6 @@
 .speech {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: x-small;
+    font: size 25px;
     color: black;
 }
 
@@ -8,7 +8,7 @@
     background-color: darkkhaki;
 }
 
-.stage_directions :hover{
-    background-color: honeydew;
-    color:darkred;
+.hover_stage-direction p:hover{
+    background-color:yellowgreen;
+    color:orangered;
 }
