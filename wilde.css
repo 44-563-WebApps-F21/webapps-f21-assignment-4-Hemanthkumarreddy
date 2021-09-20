@@ -46,12 +46,13 @@
     border-style: dashed;
     border-color: black;
     text-align: center;
-    margin: 25px 0px 0px 100px;
+    margin: 25px 0px 0px 350px;
 }
 
 tr:nth-child(even) {background-color: #d1d1d1;}
 
 .rowNcolumn{
-    border-style: groove;
+    border-style: double;
     border-color: black;
+    padding: 15px;
 }
