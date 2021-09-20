@@ -56,3 +56,9 @@ tr:nth-child(even) {background-color: #d1d1d1;}
     border-color: black;
     padding: 15px;
 }
+
+.nameHover:hover{
+    text-shadow: 2px 2px hotpink;
+    border-style:groove;
+    border-color: black;
+}
